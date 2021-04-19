@@ -2,4 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-.gz
+
+#Ignorar los archivos comprimidos
+*.gz
