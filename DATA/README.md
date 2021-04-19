@@ -7,4 +7,4 @@ Dentro de este archivo deben encontrarse los archivos
 
 Ambos se descargan de la base de datos [D2P2](https://d2p2.pro/download). No se incluyen en rama de Git debido a que son archivos pesados, por lo que deben descargarse de forma separada y colocarse en este lugar.
 
-Por otro lado, debe ejecutarse el *programa NCBI_wget_ppts.sh* para obtener los tablas de proteínas de *A. thaliana* reportadas en NCBI.
+Por otro lado, debe ejecutarse el programa *NCBI_wget_ppts.sh* para obtener los tablas de proteínas de *A. thaliana* reportadas en NCBI.
