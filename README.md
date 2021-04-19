@@ -1,0 +1,2 @@
+# Project_IDP_D2P2
+En este proyecto quedarán los archivos finales del proyecto de análisis de la base de datos D2P2, enfocándonos en IDPs de A. thaliana.
