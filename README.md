@@ -4,6 +4,8 @@ En este proyecto quedarán los archivos finales del proyecto de análisis de la 
 
 Es importante leer el archivo README.md de /DATA
 
+Añadir data
+
 ## Requerimientos
 
 * Terminal de Bash
