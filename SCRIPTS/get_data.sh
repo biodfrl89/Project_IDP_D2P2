@@ -1,5 +1,7 @@
 #!/bin/bash
 
+
+
 #Se necesita tener wget para descargar el fasta con los CDS de Araport11
 #Para instalarlo ejecuta:
 
